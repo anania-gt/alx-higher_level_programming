@@ -14,5 +14,4 @@ def new_in_list(my_list, idx, element):
     
     # Return the new list
     return new_list
-print(new_list)
-print(my_list)
+
